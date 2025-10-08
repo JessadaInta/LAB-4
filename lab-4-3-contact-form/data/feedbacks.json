@@ -1,3 +1,23 @@
 [
-
+  {
+    "id": 1759930179173,
+    "rating": 5,
+    "comment": "เว็บไซตทืทำงานได้ดีมาก",
+    "email": "nnicenicekung@gmail.com",
+    "createdAt": "2025-10-08T13:29:39.173Z"
+  },
+  {
+    "id": 1759930273660,
+    "rating": 4,
+    "comment": "njkbrfdlnzhjk",
+    "email": "nnicenicekung@gmail.com",
+    "createdAt": "2025-10-08T13:31:13.660Z"
+  },
+  {
+    "id": 1759931236187,
+    "rating": 5,
+    "comment": "awesome!",
+    "email": "",
+    "createdAt": "2025-10-08T13:47:16.187Z"
+  }
 ]
